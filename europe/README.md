@@ -1,3 +1,3 @@
 # EUROPE
 
-- [Casertavecchia](/italy/casertavecchia.md)
+- [Casertavecchia](/europe/italy/casertavecchia.md)
