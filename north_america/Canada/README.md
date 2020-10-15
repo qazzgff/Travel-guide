@@ -1,2 +1,2 @@
 # CANADA
-- [NORTH_AMERICA](./Toronto.md)
+- [Toronto](./Toronto.md)
