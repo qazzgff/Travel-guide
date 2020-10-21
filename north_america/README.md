@@ -2,4 +2,4 @@
 
 Internal links:
 
-  - [caribbean/](./caribbean)
+  - [caribbean](./caribbean/README.md)
