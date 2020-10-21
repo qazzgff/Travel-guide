@@ -1,3 +1,3 @@
 # EUROPE
 
-- [Casertavecchia](./italy/casertavecchia.md)
+- [Italy](./italy/README.md)
