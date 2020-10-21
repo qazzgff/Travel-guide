@@ -1,5 +1,4 @@
 # EUROPE
 
-- [Italy](./italy/README.md)
 - [Iceland](./iceland/README.md)
-
+- [Italy](./italy/README.md)
