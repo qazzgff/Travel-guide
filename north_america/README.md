@@ -1,5 +1,4 @@
 # NORTH_AMERICA
-
 Internal links:
-
-  - [caribbean](./caribbean/README.md)
+- [Canada](./Canada/README.md)
+- [caribbean](./caribbean/README.md)
